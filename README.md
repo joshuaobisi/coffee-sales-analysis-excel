@@ -43,7 +43,7 @@ The analysis covers:
 
 | KPI | Value |
 |---|---:|
-| Total Revenue | $147,603.20 |
+| Total Revenue | $147,603 |
 | Total Transactions | 3,898 |
 | Average Transaction Value | $37.87 |
 
